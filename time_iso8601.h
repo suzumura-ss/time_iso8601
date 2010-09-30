@@ -18,7 +18,6 @@
 #ifndef __INCLUDE_TIME_ISO8601_H__
 #define __INCLUDE_TIME_ISO8601_H__
 
-#define _XOPEN_SOURCE
 #include <features.h>
 #include <time.h>
 #include <string>
