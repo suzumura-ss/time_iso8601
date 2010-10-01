@@ -16,6 +16,7 @@
 */
 
 #include "time_iso8601.h"
+#include <string.h>
 
 
 // TZ GMT-offset by sec
